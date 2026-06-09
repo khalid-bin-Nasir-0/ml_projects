@@ -1,3 +1,0 @@
-dia_model.sav is svm model train on diabetics dataset 
-dai_predictive is program just open it and edit one thing in dia_model = pickle.load(open("past the address/path model " )
-and it is streamlit program so open terminal also install terminal 1st and the run in terminal -- streamlit run ("path of file dia_predictive") --- it will run on browser locally
